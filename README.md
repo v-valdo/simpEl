@@ -22,5 +22,5 @@ Fullstack app for retrieving, processing and presenting electricity daily price 
 Debug:
 - Backend Port is set to *5184* by default (set in Properties/**launchSettings.json**)
 - Vite port is set to *5173* by default (set in **vite.config.js**)
-- Make sure CORS policy in **Program.cs** tolerated REACT port on *line 12*:
+- Make sure CORS policy in **Program.cs** tolerates REACT port on *line 12*:
 `policy.WithOrigins("http://localhost:5173");`
