@@ -4,13 +4,13 @@
 **ASP.NET Minimal API** + **VITE/REACT**
 
 Fullstack app for retrieving, processing and presenting electricity daily price in format:
-*x Daily Average Price*
+*- Daily Average Price*
 
-*x Daily Highest Price*
+*- Daily Highest Price*
 *x Percentual Increase from Daily Avg*
 
-*x Daily Lowest Price*
-*x Percentual Decrease from Daily Avg*
+*- Daily Lowest Price*
+*- Percentual Decrease from Daily Avg*
 
 ## Setup
 1. `cd simpel.api`
