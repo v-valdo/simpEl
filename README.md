@@ -1,3 +1,6 @@
+
+![simpel](https://github.com/user-attachments/assets/5a5c2808-f312-4bdd-827c-0a76afe215d3)
+
 **ASP.NET Minimal API** + **VITE/REACT**
 
 Fullstack app for retrieving, processing and presenting electricity daily price in format:
