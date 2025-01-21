@@ -4,6 +4,7 @@
 **ASP.NET Minimal API** + **VITE/REACT**
 
 Fullstack app for retrieving, processing and presenting electricity daily price in format:
+
 *- Daily Average Price*
 
 *- Daily Highest Price*
